@@ -1,0 +1,99 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    
+}
+
+<div class="container-fluid py-5 mb-5 hero-header">
+    <div class="container py-5">
+        <div class="row g-5 align-items-center">
+            <div class="col-md-12 col-lg-7">
+                <h4 class="mb-3 text-secondary">Tshop-Nhà phân phối đồng hồ</h4>
+                <h1 class="mb-5 display-3 text-primary">Đẳng cấp,Uy tín <br />và Trách nhiệm</h1>
+                
+            </div>
+            <div class="col-md-12 col-lg-5">
+                <div id="carouselId" class="carousel slide position-relative" data-bs-ride="carousel">
+                    <div class="carousel-inner" role="listbox">
+                        <div class="carousel-item active rounded">
+                            <img src="~/Hinh/HangHoa/rolex_title.jpg" class="w-100" style="border-radius:10px;height:430px" alt="First slide">
+                            <a href="/HangHoa?loai=1001" class="btn px-4 py-2 text-white rounded">Cao cấp</a>
+                        </div>
+                        <div class="carousel-item rounded">
+                            <img src="~/Hinh/HangHoa/tissiot_title.jpg" class="w-100 " style="height:430px;border-radius:10px" alt="Second slide">
+                            <a href="/HangHoa?loai=1000" class="btn px-4 py-2 text-white rounded">Phổ biến</a>
+                        </div>
+                        <div class="carousel-item rounded">
+                            <img src="~/Hinh/HangHoa/nam.jpg" class="w-100" style="border-radius:10px;height:430px" alt="Third slide">
+                            <a href="/HangHoa?loai=1002" class="btn px-4 py-2 text-white rounded">Nam</a>
+                        </div>
+                        <div class="carousel-item rounded">
+                            <img src="~/Hinh/HangHoa/nu.jpg" class="w-100" style="border-radius:10px;height:430px" alt="Fourth slide">
+                            <a href="/HangHoa?loai=1003" class="btn px-4 py-2 text-white rounded">Nữ</a>
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselId" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselId" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid featurs py-5">
+    <div class="container py-5">
+        <div class="row g-4">
+            <div class="col-md-6 col-lg-3">
+                <div class="featurs-item text-center rounded bg-light p-4">
+                    <div class="featurs-icon btn-square rounded-circle bg-secondary mb-5 mx-auto">
+                        <i class="fas fa-car-side fa-3x text-white"></i>
+                    </div>
+                    <div class="featurs-content text-center">
+                        <h5>Miễn phí ship</h5>
+                        <p class="mb-0">Cho đơn hàng hơn 1 triệu</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="featurs-item text-center rounded bg-light p-4">
+                    <div class="featurs-icon btn-square rounded-circle bg-secondary mb-5 mx-auto">
+                        <i class="fas fa-user-shield fa-3x text-white"></i>
+                    </div>
+                    <div class="featurs-content text-center">
+                        <h5>Bảo mật thanh toán</h5>
+                        <p class="mb-0">100% Bảo mật</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="featurs-item text-center rounded bg-light p-4">
+                    <div class="featurs-icon btn-square rounded-circle bg-secondary mb-5 mx-auto">
+                        <i class="fas fa-exchange-alt fa-3x text-white"></i>
+                    </div>
+                    <div class="featurs-content text-center">
+                        <h5>Đổi trả 30 ngày</h5>
+                        <p class="mb-0">Hoàn tiền đổi trả</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="featurs-item text-center rounded bg-light p-4">
+                    <div class="featurs-icon btn-square rounded-circle bg-secondary mb-5 mx-auto">
+                        <i class="fa fa-phone-alt fa-3x text-white"></i>
+                    </div>
+                    <div class="featurs-content text-center">
+                        <h5>Hỗ trợ 24/7</h5>
+                        <p class="mb-0">Nhân viên hỗ trợ nhiệt tình</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

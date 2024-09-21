@@ -1,0 +1,67 @@
+﻿@page
+@model Tshop.Pages.HangHoa.DetailModel
+@{
+}
+<!-- Single Page Header start -->
+<div class="container-fluid page-header py-5">
+	<h1 class="text-center text-white display-6">Shop Detail</h1>
+	<ol class="breadcrumb justify-content-center mb-0">
+		<li class="breadcrumb-item"><a href="#">Home</a></li>
+		<li class="breadcrumb-item"><a href="#">Hàng hóa</a></li>
+		<li class="breadcrumb-item active text-white">@Model.chiTietHangHoaVM.TenHH</li>
+	</ol>
+</div>
+<!-- Single Page Header End -->
+<!-- Single Product Start -->
+<div class="container-fluid py-5 mt-5">
+	<div class="container py-5">
+		<div class="row g-4 mb-5">
+			<div class="col-lg-8 col-xl-9">
+				<div class="row g-4">
+					<div class="col-lg-6">
+						<div class="border rounded">
+							<a asp-action="Detail" asp-route-id="@Model.chiTietHangHoaVM.MaHh">
+								<img src="~/Hinh/HangHoa/@Model.chiTietHangHoaVM.Hinh" class="img-fluid rounded" alt="@Model.chiTietHangHoaVM.TenHH">
+							</a>
+						</div>
+					</div>
+					<div class="col-lg-6">
+						<h4 class="fw-bold mb-3">@Model.chiTietHangHoaVM.TenHH</h4>
+						<p class="mb-3">Danh mục: @Model.chiTietHangHoaVM.TenLoai</p>
+						<h5 class="fw-bold mb-3">@Model.chiTietHangHoaVM.DonGia VNĐ</h5>
+						<div class="d-flex mb-4">
+							<i class="fa fa-star text-secondary"></i>
+							<i class="fa fa-star text-secondary"></i>
+							<i class="fa fa-star text-secondary"></i>
+							<i class="fa fa-star text-secondary"></i>
+							<i class="fa fa-star"></i>
+						</div>
+						<p class="mb-4">@Model.chiTietHangHoaVM.MoTaNgan</p>
+						<form  asp-route-id="@Model.chiTietHangHoaVM.MaHh">
+							<div class="input-group quantity mb-5" style="width: 100px;">
+								
+							</div>
+						</form>
+					</div>
+					<div class="col-lg-12">
+						<a class="btn border-secondary rounded-pill px-4 py-3 text-primary text-uppercase mb-4 ms-4" asp-page="/HangHoa/Index">Quay về danh sách</a>
+						
+					</div>
+					
+				</div>
+			</div>
+			<div class="col-lg-4 col-xl-3">
+				<div class="row g-4 fruite">
+					<div class="col-lg-12">
+						@await Html.PartialAsync("_TimKiemPanel")
+						@await Component.InvokeAsync("MenuLoai")
+					</div>
+					
+					
+				</div>
+			</div>
+		</div>
+		
+	</div>
+</div>
+<!-- Single Product End -->

@@ -1,0 +1,187 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tshop
+build_property.RootNamespace = Tshop
+build_property.ProjectDir = D:\QLHC\Lab4\Tshop\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\QLHC\Lab4\Tshop
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/QLHC/Lab4/Tshop/wwwroot/Components/Cart/CartPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxDb21wb25lbnRzXENhcnRcQ2FydFBhbmVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/wwwroot/Components/MenuLoai/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxDb21wb25lbnRzXE1lbnVMb2FpXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Areas/Admin/Views/HomeAdmin/DangNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmdOaGFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Areas/Admin/Views/HomeAdmin/DanhMuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Areas/Admin/Views/HomeAdmin/DanhMucHangHoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERhbmhNdWNIYW5nSG9hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Areas/Admin/Views/HomeAdmin/DonHang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERvbkhhbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Areas/Admin/Views/HomeAdmin/EditDanhMuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEVkaXREYW5oTXVjLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Areas/Admin/Views/HomeAdmin/EditHangHoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEVkaXRIYW5nSG9hLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Areas/Admin/Views/HomeAdmin/ThemDanhMucMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1EYW5oTXVjTW9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Areas/Admin/Views/HomeAdmin/ThemHangHoaMoi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1IYW5nSG9hTW9pLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Areas/Admin/Views/Home/_Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxfSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Areas/Admin/Views/Shared/_NotificationPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Cart/PaymentFail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxQYXltZW50RmFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Cart/PaymentSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydFxQYXltZW50U3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/DangKy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFuZ0t5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/DangXuat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFuZ1h1YXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/HangHoa/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGFuZ0hvYVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/HangHoa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGFuZ0hvYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/HangHoa/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGFuZ0hvYVxTZWFyY2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/KhachHang/DangNhap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2hhY2hIYW5nXERhbmdOaGFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/KhachHang/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcS2hhY2hIYW5nXFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Lienhe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGllbmhlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/PaymentCallBack.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudENhbGxCYWNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Shared/Components/Cart/CartPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcQ2FydFxDYXJ0UGFuZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Shared/Components/MenuLoai/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcTWVudUxvYWlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Shared/Components/MenuNCC/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcTWVudU5DQ1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Shared/_Copyright.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Db3B5cmlnaHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Shared/_DanhSachHangHoa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9EYW5oU2FjaEhhbmdIb2EuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Shared/_TimKiemPanel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9UaW1LaWVtUGFuZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/QLHC/Lab4/Tshop/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nt6aqpbf7o

@@ -1,0 +1,23 @@
+﻿@page
+@model Tshop.Pages.Cart.PaymentSuccessModel
+
+@{
+    ViewData["Title"] = "Payment Success";
+}
+
+<div class="container-fluid contact py-5">
+    <div class="container">
+        <div class="p-5 bg-light rounded">
+            <div class="row g-4">
+                <div class="col-12">
+                    <div class="text-center mx-auto" style="max-width: 700px;">
+                        <h1 class="text-primary">Payment Success</h1>
+                        <h3 class="text-success">@TempData["Message"]</h3>
+                        <p>Cảm ơn bạn đã mua sản phẩm. Đơn hàng của bạn đã được xác nhận và sẽ được xử lý trong thời gian sớm nhất.</p>
+                        <a class="btn border-secondary rounded-pill px-4 py-3 text-primary text-uppercase mb-4 ms-4" asp-page="/Index">Quay về trang chủ</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

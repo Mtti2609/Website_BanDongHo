@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Tshop.Data.Loai>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "DanhMuc";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh mục</h1>
+
+<p>
+    <a asp-action="ThemDanhMucMoi">Tạo danh mục mới</a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                Mã HH
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenLoai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenLoaiAlias)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MoTa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hinh)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 0;
+            string @cls = "table-success";
+        }
+@foreach (var item in Model) {
+            i = i + 1;
+            cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+        <tr class="@cls">
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaLoai)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenLoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenLoaiAlias)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTa)
+            </td>
+            <td>
+                <img src="~/Hinh/Loai/@item.Hinh" width="100" />
+            </td>
+            <td>
+                <a asp-action="EditDanhMuc" asp-route-maloai="@item.MaLoai">Sửa </a> |
+                <a asp-action="XoaDanhMuc" asp-route-id="@item.MaLoai">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

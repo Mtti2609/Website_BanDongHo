@@ -1,0 +1,55 @@
+﻿@page
+@model Tshop.Pages.Cart.CheckoutModel
+@{
+    ViewData["Title"] = "Thanh toán";
+}
+
+
+<!-- Đầu trang -->
+<div class="container-fluid page-header py-5">
+    <h1 class="text-center text-white display-6">Thanh toán</h1>
+    <ol class="breadcrumb justify-content-center mb-0">
+        <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
+        <li class="breadcrumb-item"><a href="#">Trang</a></li>
+        <li class="breadcrumb-item active text-white">Thanh toán</li>
+    </ol>
+</div>
+<!-- Kết thúc đầu trang -->
+
+<!-- Phần nội dung trang thanh toán -->
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <h1 class="mb-4">Chi tiết đơn hàng</h1>
+        <form method="post" asp-page-handler="Checkout">
+            <div class="row g-5">
+                <div class="col-md-12 col-lg-6 col-xl-7">
+                    
+                    <div class="form-item delivery-info">
+                        <label class="form-label my-3">Người nhận hàng<sup>*</sup></label>
+                        <input type="text" name="HoTen" class="form-control">
+                    </div>
+                    <div class="form-item delivery-info">
+                        <label class="form-label my-3">Địa chỉ nhận hàng<sup>*</sup></label>
+                        <input type="text" name="DiaChi" class="form-control" placeholder="123 Lê Lợi, Quận 1">
+                    </div>
+                    <div class="form-item delivery-info">
+                        <label class="form-label my-3">Điện thoại<sup>*</sup></label>
+                        <input type="text" name="DienThoai" class="form-control">
+                    </div>
+                    <div class="form-item mt-3">
+                        <textarea name="GhiChu" class="form-control" spellcheck="false" cols="30" rows="11" placeholder="Ghi chú"></textarea>
+                    </div>
+                    <input asp-page="/Cart/PaymentSuccess" type="submit" name="payment" class="btn border-secondary text-uppercase text-primary w-100 mt-2" value="Đặt hàng (COD)">
+                    <input type="submit" name="payment" class="btn border-secondary text-uppercase text-primary w-100 mt-2" value="Thanh toán VNPay">
+                    <div id="paypal-button-container" class="form-item mt-3" style="max-width:1000px;"></div>
+                </div>
+				
+            </div>
+        </form>
+    </div>
+</div>
+<!-- Kết thúc phần nội dung trang thanh toán -->
+
+@section Scripts {
+	
+}

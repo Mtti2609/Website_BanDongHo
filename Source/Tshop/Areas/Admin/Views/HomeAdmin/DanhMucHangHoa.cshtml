@@ -1,0 +1,89 @@
+﻿@using Tshop.Data
+@using Tshop.Models;
+
+@model IEnumerable<Tshop.Data.HangHoa>
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "DanhMucHangHoa";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh mục sản phẩm</h1>
+
+<p>
+    <a asp-action="ThemHangHoaMoi">Tạo sản phẩm</a>
+</p>
+<p>@TempData["Message"]</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                Mã HH
+            </th>
+            <th>
+                Tên hàng hóa
+            </th>
+            <th>
+                Tên chi tiết
+            </th>
+            <th>
+                Đơn vị
+            </th>
+            <th>
+                Gía tiền
+            </th>
+            <th>
+                Hình ảnh
+            </th>
+            
+            
+            
+          
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i=0;
+            string @cls = "table-success";
+        }
+@foreach (var item in Model) {
+            i = i + 1;
+            cls = "table-success";
+            if(i%2==0)
+            {
+                cls="table-primary";
+            }
+            <tr class="@cls">
+             <td>
+                    @Html.DisplayFor(modelItem => item.MaHh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenHh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenAlias)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MoTaDonVi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DonGia)
+            </td>
+            <td>
+                <img src="~/Hinh/HangHoa/@item.Hinh" width="100" />
+            </td>
+
+           
+            
+           
+            <td>
+                <a asp-action="EditHangHoa" asp-route-maHh="@item.MaHh">Sửa</a> |
+                 |
+                <a asp-action="XoaSanPham" asp-route-maHh="@item.MaHh">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+

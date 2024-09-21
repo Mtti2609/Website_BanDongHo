@@ -1,0 +1,29 @@
+﻿@page
+@model ProfileModel
+@{
+}
+
+<div class="container-fluid contact py-5">
+    <div class="container">
+        <div class="p-5 bg-light rounded">
+            <div class="row g-4">
+                <div class="col-12">
+                    <div class="text-center mx-auto" style="max-width: 700px;">
+                        <h1 class="text-primary">Thông tin người dùng</h1>
+
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <p>Xin chào @User.Identity.Name</p>
+                        }
+                        else
+                        {
+                            <p>Xin chào, người dùng chưa đăng nhập</p>
+                        }
+                        <a class="btn border-secondary rounded-pill px-4 py-3 text-primary text-uppercase mb-4 ms-4" asp-page="/DangXuat">Đăng xuất</a>
+                        <a class="btn border-secondary rounded-pill px-4 py-3 text-primary text-uppercase mb-4 ms-4" asp-page="/Index">Quay về trang chủ</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

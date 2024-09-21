@@ -1,0 +1,2925 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Tshop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Tshop.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\.gitignore",
+      "PackagePath": "staticwebassets\\Admin\\.gitignore"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\Admin\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\Admin\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\README.md",
+      "PackagePath": "staticwebassets\\Admin\\README.md"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\Admin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\Admin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\Admin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\Admin\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\index.html",
+      "PackagePath": "staticwebassets\\Admin\\index.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\package.json",
+      "PackagePath": "staticwebassets\\Admin\\package.json"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\Admin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_footer.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\Admin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Admin\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\Admin\\screenshot.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\Hublot1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Hublot1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\Hublot2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Hublot2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\Hublot3.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Hublot3.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\Project Assignment - Web App Dev (C#).pdf",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Project Assignment - Web App Dev (C#).pdf"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\Rolex1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Rolex1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\RolexRainbow.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\RolexRainbow.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\Seiko1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Seiko1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\Seiko2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Seiko2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\Seiko_black.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Seiko_black.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\Tissot1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Tissot1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\Tissot2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Tissot2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\casio1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\casio1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\casio2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\casio2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\nam.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\nam.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\nam1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\nam1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\nu.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\nu.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\nu1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\nu1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\nu2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\nu2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\nu3.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\nu3.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\nu4.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\nu4.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\rolex-nu.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\rolex-nu.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\rolex_title.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\rolex_title.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\HangHoa\\tissiot_title.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tissiot_title.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\KhachHang\\Author.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Author.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\KhachHang\\Penguins.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Penguins.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\KhachHang\\android_300200.png",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\android_300200.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\KhachHang\\css-position-all.png",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\css-position-all.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\KhachHang\\dong-ho-nam-casio-aw-90h-2bvdf-600x600.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\dong-ho-nam-casio-aw-90h-2bvdf-600x600.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\KhachHang\\man.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\man.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\KhachHang\\nn-square.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\nn-square.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\KhachHang\\woman.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\woman.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai11.jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\Loai11.jpeg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Accept.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Accept.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Alarm.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Alarm.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Anchor.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Anchor.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Bell.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Bell.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Best.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Best.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Billboard.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Billboard.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Bomb.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Bomb.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Brick house.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Brick house.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Bricks.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Bricks.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Buddy.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Buddy.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Certificate.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Certificate.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Dice.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Dice.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Dollar.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Dollar.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Favourites.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Favourites.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Funny.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Funny.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Heart.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Heart.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Microsoft.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Microsoft.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\Unlock.png",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\Unlock.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loai\\agenda_1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Loai\\agenda_1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Loaiimages.jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\Loaiimages.jpeg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\NhaCC\\casio.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\casio.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\NhaCC\\hublot-logo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\hublot-logo.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\NhaCC\\rolex.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\rolex.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\NhaCC\\seiko.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\seiko.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\NhaCC\\shopping_cart.png",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\shopping_cart.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\NhaCC\\sonny-ericsson.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\sonny-ericsson.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\NhaCC\\tissot.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\NhaCC\\tissot.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Others\\admin.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\Others\\admin.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\Others\\shopping_cart.png",
+      "PackagePath": "staticwebassets\\Hinh\\Others\\shopping_cart.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\divider.gif",
+      "PackagePath": "staticwebassets\\Hinh\\divider.gif"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Accept.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Accept.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Add to basket.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Add to basket.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Add.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Add.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Address book.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Address book.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Alarm.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Alarm.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Anchor.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Anchor.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Application form.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Application form.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Bar chart.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bar chart.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Basket.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Basket.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Bell.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bell.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Best.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Best.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Billboard.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Billboard.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Bluetooth.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bluetooth.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Bomb.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bomb.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Book.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Book.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Bookmark.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bookmark.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Box.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Box.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Boy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Boy.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Brick house.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Brick house.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Bricks.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bricks.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Brief case.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Brief case.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Brightness.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Brightness.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Bubble.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Bubble.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Buddy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Buddy.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Cable.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Cable.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Calculator.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Calculator.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Calendar.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Calendar.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Call.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Call.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Camera.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Camera.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Card file.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Card file.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Cash register.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Cash register.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Cat.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Cat.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Certificate.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Certificate.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Clien list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Clien list.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Clipboard.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Clipboard.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Clock.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Clock.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Closed door.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Closed door.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Closed folder.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Closed folder.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Coin.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Coin.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Coins.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Coins.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Color wheel.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Color wheel.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Comment.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Comment.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Comments.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Comments.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Company.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Company.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Computer.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Computer.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Conference.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Conference.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Connect.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Connect.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Construction.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Construction.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Contrast.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Contrast.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Control panel.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Control panel.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Create.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Create.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Database.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Database.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Date.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Date.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Delete.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Delete.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Desktop.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Desktop.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Diagram.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Diagram.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Dice.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Dice.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Disconnect.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Disconnect.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Discussion.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Discussion.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Document.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Document.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Documents.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Documents.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Dog.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Dog.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Dollar.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Dollar.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Down.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Down.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Download.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Download.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Edit.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Edit.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Euro.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Euro.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Exit button.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Exit button.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Exit.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Exit.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Favourites.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Favourites.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Fax.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Fax.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Flash drive.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Flash drive.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Flow block.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Flow block.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Free.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Free.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Friends.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Friends.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Full basket.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Full basket.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Funny.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Funny.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Game controller.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Game controller.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Gear.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Gear.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Genealogy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Genealogy.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Gift.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Gift.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Girl.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Girl.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Globe.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Globe.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Handshake.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Handshake.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Happy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Happy.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Hard disk.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Hard disk.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Heart.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Heart.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Help.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Help.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Hierarchy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Hierarchy.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Home.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Home.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Hungup.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Hungup.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Industry.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Industry.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Info.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Info.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Key.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Key.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Label.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Label.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Left.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Left.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Lego brick.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Lego brick.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Letter.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Letter.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\List.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\List.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Lists.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Lists.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Lock.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Lock.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Log out.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Log out.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Login.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Login.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Mail.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Mail.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Microsoft.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Microsoft.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Mobile phone.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Mobile phone.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Money.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Money.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Monitor.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Monitor.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Mouse.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Mouse.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Music.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Music.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\No.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\No.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Notes.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Notes.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Numbered list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Numbered list.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\OK.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\OK.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Online.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Online.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Open door.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open door.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Open file.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open file.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Open folder.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open folder.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Open letter.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open letter.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Open lock.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Open lock.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Payment.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Payment.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Peace.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Peace.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Pets.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Pets.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Phone.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Phone.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Piggy bank.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Piggy bank.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Piggy.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Piggy.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Pointer.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Pointer.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Pound.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Pound.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Price list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Price list.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Print preview.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Print preview.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Print.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Print.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Printer.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Printer.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Problem.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Problem.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Properties.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Properties.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\RSS.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\RSS.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Red star.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Red star.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Refresh.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Refresh.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Remove from basket.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Remove from basket.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Report.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Report.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Right.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Right.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Rouble.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Rouble.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Sad.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Sad.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Safe.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Safe.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Save as.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Save as.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Save.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Save.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Scroll list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Scroll list.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Search.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Search.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Shield.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Shield.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Smile.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Smile.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Software.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Software.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Statistics.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Statistics.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Stop.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Stop.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Task list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Task list.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Telephone.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Telephone.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Text.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Text.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Tick.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Tick.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\To do list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\To do list.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Trash.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Trash.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Unknown person.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Unknown person.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Unlock.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Unlock.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Unordered list.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Unordered list.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Up.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Up.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Upload.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Upload.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\User group.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\User group.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\User.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\User.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Users.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Users.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Wallet.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Wallet.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Warning.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Warning.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Weather.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Weather.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Wireless.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Wireless.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Wizard.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Wizard.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Yen.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Yen.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Yin-Yang.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Yin-Yang.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Zoom in.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Zoom in.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Zoom out.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Zoom out.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\Zoom.png",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\Zoom.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\eng.gif",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\eng.gif"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\Hinh\\icons\\vit.gif",
+      "PackagePath": "staticwebassets\\Hinh\\icons\\vit.gif"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\cart.html",
+      "PackagePath": "staticwebassets\\cart.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\chackout.html",
+      "PackagePath": "staticwebassets\\chackout.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\css\\style.css",
+      "PackagePath": "staticwebassets\\hinhthem\\css\\style.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\hinhthem\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\hinhthem\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\hinhthem\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\js\\chart.js",
+      "PackagePath": "staticwebassets\\hinhthem\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\hinhthem\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\hinhthem\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\hinhthem\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\hinhthem\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\js\\misc.js",
+      "PackagePath": "staticwebassets\\hinhthem\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\hinhthem\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\js\\todo.js",
+      "PackagePath": "staticwebassets\\hinhthem\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\hinhthem\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\hinhthem\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\hinhthem\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\hinhthem\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\hinhthem\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\hinhthem\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\hinhthem\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\hinhthem\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\hinhthem\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\hinhthem\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\hinhthem\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\hinhthem\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\hinhthem\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\baner-1.png",
+      "PackagePath": "staticwebassets\\img\\baner-1.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\banner-fruits.jpg",
+      "PackagePath": "staticwebassets\\img\\banner-fruits.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\best-product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\best-product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\best-product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-3.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\best-product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-4.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\best-product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-5.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\best-product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\best-product-6.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\cart-page-header-img.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\featur-1.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\featur-2.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\featur-3.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-3.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\fruite-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\fruite-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\fruite-item-3.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-3.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\fruite-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-4.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\fruite-item-5.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-5.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\fruite-item-6.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-6.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\hero-img-1.png",
+      "PackagePath": "staticwebassets\\img\\hero-img-1.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\hero-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img-2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\payment.png",
+      "PackagePath": "staticwebassets\\img\\payment.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\single-item.jpg",
+      "PackagePath": "staticwebassets\\img\\single-item.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\vegetable-item-1.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-1.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\vegetable-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-2.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\vegetable-item-3.png",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-3.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\vegetable-item-4.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-4.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\vegetable-item-5.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-5.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\img\\vegetable-item-6.jpg",
+      "PackagePath": "staticwebassets\\img\\vegetable-item-6.jpg"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\shop-detail.html",
+      "PackagePath": "staticwebassets\\shop-detail.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\shop.html",
+      "PackagePath": "staticwebassets\\shop.html"
+    },
+    {
+      "Id": "D:\\QLHC\\Lab4\\Tshop\\wwwroot\\testimonial.html",
+      "PackagePath": "staticwebassets\\testimonial.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Tshop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Tshop.props",
+      "PackagePath": "build\\Tshop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Tshop.props",
+      "PackagePath": "buildMultiTargeting\\Tshop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Tshop.props",
+      "PackagePath": "buildTransitive\\Tshop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

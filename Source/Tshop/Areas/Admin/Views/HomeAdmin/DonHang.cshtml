@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Tshop.Data.HoaDon>
+
+@{
+    ViewData["Title"] = "DonHang";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>DonHang</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Mã HĐ
+            </th>
+            <th>
+                Ngày đặt
+            </th>
+            
+            <th>
+                Tên KH
+            </th>
+            <th>
+                Địa chỉ
+            </th>
+            
+            <th>
+                Thanh Toán
+            </th>
+            
+
+            <th>
+                Trạng thái
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaHd)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayDat)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChi)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.CachThanhToan)
+            </td>
+                
+
+            <td>
+                    @Html.DisplayFor(modelItem => item.MaTrangThaiNavigation.MaTrangThai )
+                </td>
+            <td>
+                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

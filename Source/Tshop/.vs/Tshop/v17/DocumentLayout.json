@@ -1,0 +1,696 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QLHC\\Lab4\\Tshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\lienhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\lienhe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\cart\\paymentfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\cart\\paymentfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\cart\\paymentfail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\cart\\paymentfail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\cart\\checkout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\cart\\checkout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\cart\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\cart\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:data\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\areas\\admin\\views\\homeadmin\\donhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\donhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\areas\\admin\\views\\homeadmin\\danhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\danhmuc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\areas\\admin\\views\\homeadmin\\danhmuchanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\danhmuchanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\areas\\admin\\views\\homeadmin\\themhanghoamoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\themhanghoamoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\areas\\admin\\views\\homeadmin\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\cart\\paymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\cart\\paymentsuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\paymentcallback.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\paymentcallback.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\paymentcallback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\paymentcallback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\areas\\admin\\views\\homeadmin\\edithanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\edithanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\shared\\_copyright.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\shared\\_copyright.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\services\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:services\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\khachhang\\dangnhap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\hanghoa\\detail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\hanghoa\\detail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\cart\\paymentsuccess.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\cart\\paymentsuccess.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\khachhang\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\khachhang\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\khachhang\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|d:\\qlhc\\lab4\\tshop\\pages\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76C8B14-0ED1-4F30-B802-3F7212020F5B}|Tshop.csproj|solutionrelative:pages\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Data\\HangHoa.cs",
+              "RelativeDocumentMoniker": "Data\\HangHoa.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Data\\HangHoa.cs",
+              "RelativeToolTip": "Data\\HangHoa.cs",
+              "ViewState": "AQIAAAMAAAAAMzMzMzMTwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:57:50.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T20:02:13.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Cart\\Index.cshtml",
+              "ViewState": "AQIAADIAAABAzMzMzMwuwEQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T07:59:28.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Loai.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Data\\Loai.cs",
+              "RelativeDocumentMoniker": "Data\\Loai.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Data\\Loai.cs",
+              "RelativeToolTip": "Data\\Loai.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:21:40.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T20:18:31.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentFail.cshtml.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\PaymentFail.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Cart\\PaymentFail.cshtml.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\PaymentFail.cshtml.cs",
+              "RelativeToolTip": "Pages\\Cart\\PaymentFail.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:47:47.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\HangHoa\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Pages\\HangHoa\\Detail.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\HangHoa\\Detail.cshtml",
+              "RelativeToolTip": "Pages\\HangHoa\\Detail.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T19:47:55.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentFail.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\PaymentFail.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Cart\\PaymentFail.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\PaymentFail.cshtml",
+              "RelativeToolTip": "Pages\\Cart\\PaymentFail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T19:10:40.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Cart\\Index.cshtml.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Cart\\Index.cshtml.cs",
+              "ViewState": "AQIAABgAAAAAoJmZmZnJvxoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:06:34.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Cart\\Checkout.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "Pages\\Cart\\Checkout.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T07:35:42.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Checkout.cshtml.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\Checkout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Cart\\Checkout.cshtml.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\Checkout.cshtml.cs",
+              "RelativeToolTip": "Pages\\Cart\\Checkout.cshtml.cs",
+              "ViewState": "AQIAACMAAAAAaGZmZmb2vyYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T07:35:41.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lienhe.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Lienhe.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Lienhe.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Lienhe.cshtml",
+              "RelativeToolTip": "Pages\\Lienhe.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T14:24:18.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAuwDYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:36:37.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MenuLoaiViewComponent.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\MenuLoaiViewComponent.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\MenuLoaiViewComponent.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAASwBAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T22:22:35.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T08:33:17.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DonHang.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\HomeAdmin\\DonHang.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\DonHang.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\HomeAdmin\\DonHang.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\DonHang.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T22:34:07.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DanhMucHangHoa.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucHangHoa.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\DanhMucHangHoa.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucHangHoa.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\DanhMucHangHoa.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T10:18:49.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DanhMuc.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\HomeAdmin\\DanhMuc.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\DanhMuc.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\HomeAdmin\\DanhMuc.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\DanhMuc.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T21:47:53.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThemHangHoaMoi.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\HomeAdmin\\ThemHangHoaMoi.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\ThemHangHoaMoi.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\HomeAdmin\\ThemHangHoaMoi.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\ThemHangHoaMoi.cshtml",
+              "ViewState": "AQIAAAwAAABgZmZmZmYkwBAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T09:07:52.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentSuccess.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\PaymentSuccess.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Cart\\PaymentSuccess.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\PaymentSuccess.cshtml",
+              "RelativeToolTip": "Pages\\Cart\\PaymentSuccess.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T19:13:55.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\HomeAdmin\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\DangNhap.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\HomeAdmin\\DangNhap.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\DangNhap.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T10:12:50.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T20:12:35.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB0AAABgMzMzMzMbwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:32:01.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MySetting.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Helpers\\MySetting.cs",
+              "RelativeDocumentMoniker": "Helpers\\MySetting.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Helpers\\MySetting.cs",
+              "RelativeToolTip": "Helpers\\MySetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T18:07:30.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentCallBack.cshtml.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\PaymentCallBack.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\PaymentCallBack.cshtml.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\PaymentCallBack.cshtml.cs",
+              "RelativeToolTip": "Pages\\PaymentCallBack.cshtml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:16:03.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PaymentCallBack.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\PaymentCallBack.cshtml",
+              "RelativeDocumentMoniker": "Pages\\PaymentCallBack.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\PaymentCallBack.cshtml",
+              "RelativeToolTip": "Pages\\PaymentCallBack.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T07:15:47.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T09:07:31.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditHangHoa.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\HomeAdmin\\EditHangHoa.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\EditHangHoa.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Areas\\Admin\\Views\\HomeAdmin\\EditHangHoa.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\EditHangHoa.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T09:32:00.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\ViewModels\\CartItem.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CartItem.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\ViewModels\\CartItem.cs",
+              "RelativeToolTip": "ViewModels\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:54:49.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Copyright.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Shared\\_Copyright.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Copyright.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Shared\\_Copyright.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Copyright.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T19:57:30.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IVnPayService.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Services\\IVnPayService.cs",
+              "RelativeDocumentMoniker": "Services\\IVnPayService.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Services\\IVnPayService.cs",
+              "RelativeToolTip": "Services\\IVnPayService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:09:28.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VnPayService.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Services\\VnPayService.cs",
+              "RelativeDocumentMoniker": "Services\\VnPayService.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Services\\VnPayService.cs",
+              "RelativeToolTip": "Services\\VnPayService.cs",
+              "ViewState": "AQIAADYAAAAAMzMzMzPzvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:09:29.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-19T07:11:48.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PaymentSuccess.cshtml.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\PaymentSuccess.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Cart\\PaymentSuccess.cshtml.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Cart\\PaymentSuccess.cshtml.cs",
+              "RelativeToolTip": "Pages\\Cart\\PaymentSuccess.cshtml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:14:40.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Detail.cshtml.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\HangHoa\\Detail.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\HangHoa\\Detail.cshtml.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\HangHoa\\Detail.cshtml.cs",
+              "RelativeToolTip": "Pages\\HangHoa\\Detail.cshtml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T11:16:25.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DangNhap.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\KhachHang\\DangNhap.cshtml",
+              "RelativeDocumentMoniker": "Pages\\KhachHang\\DangNhap.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\KhachHang\\DangNhap.cshtml",
+              "RelativeToolTip": "Pages\\KhachHang\\DangNhap.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T11:16:28.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_DanhSachHangHoa.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_DanhSachHangHoa.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_DanhSachHangHoa.cshtml",
+              "ViewState": "AQIAAAwAAABgZmZmZmYkwBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T20:17:52.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\HangHoa\\Index.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "Pages\\HangHoa\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T20:44:03.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\KhachHang\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\KhachHang\\Profile.cshtml.cs",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\KhachHang\\Profile.cshtml.cs",
+              "RelativeToolTip": "Pages\\KhachHang\\Profile.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:36:14.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\KhachHang\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Pages\\KhachHang\\Profile.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\KhachHang\\Profile.cshtml",
+              "RelativeToolTip": "Pages\\KhachHang\\Profile.cshtml",
+              "ViewState": "AQIAAAAAAABAMzMzMzMrwBUAAACTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T20:01:03.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\QLHC\\Lab4\\Tshop\\Pages\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAACgAAAAANDMzMzMLwDcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T19:47:32.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
